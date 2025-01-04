@@ -83,6 +83,34 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "2b96",
+      "title": "beautiful apartment in ph",
+      "type": "Part-Time",
+      "location": "Port harcourt",
+      "description": "this is a test description",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Mystery Chat",
+        "description": "This is a great company to work",
+        "contactEmail": "ptecious@gmail.com",
+        "contactPhone": "08989478987"
+      }
+    },
+    {
+      "id": "b3f3",
+      "title": "sdsa",
+      "type": "Full-Time",
+      "location": "srhwerh",
+      "description": "qwetgwatwtfds",
+      "salary": "Under $50K",
+      "company": {
+        "name": "wreg",
+        "description": "srhe889;774",
+        "contactEmail": "precious@gmail.com",
+        "contactPhone": "5435756"
+      }
     }
   ]
 }
